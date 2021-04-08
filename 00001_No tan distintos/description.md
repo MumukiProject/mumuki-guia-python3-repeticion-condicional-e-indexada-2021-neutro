@@ -1,4 +1,4 @@
-En las lecciones anteriores vimos varias funciones (¡y algunos operadores!) que operan con números, otras con booleanos, y así.
+En las lecciones anteriores hemos visto varias funciones (¡y algunos operadores!) que operan con números, otras con booleanos, y así.
 
 Pero quizás ya hayas notado que hay dos operaciones en particular que son bastante _peculiares_: `len` e `in`. ¿Por qué? Observemos los siguientes ejemplos: 
 
