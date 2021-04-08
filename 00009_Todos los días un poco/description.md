@@ -1,6 +1,6 @@
 _¡Pero el `for` no se trata sólo de números! Por ejemplo también podríamos utilizarlo para acumular un resultado booleano._ :open_mouth:
 
-Agus quiere saber si en alguna de sus últimas marcas de natacion :person_swimming: superó su objetivo personal de 3 minutos: 
+Agus quiere saber si en alguna de sus últimas marcas de natación :person_swimming: superó su objetivo personal de 3 minutos: 
 
 ```python
 ム alguna_vez_supero_objetivo([3.2, 3.4, 3.01, 3.08])
@@ -22,10 +22,10 @@ def alguna_vez_supero_objetivo(duraciones):
   return supero
 ```
 
-Como vemos, acá la variable local que estamos usando de _acumulador_ es booleana, y en cada _iteración_ (es decir, cada vez que visitamos una `duracion`) actualizaremos su valor, para saber si esta `duracion` o alguna de las anteriores fue menor 3. 
+Como vemos, aquí la variable local que estamos usando de _acumulador_ es booleana, y en cada _iteración_ (es decir, cada vez que visitamos una `duracion`) actualizaremos su valor, para saber si esta `duracion` o alguna de las anteriores fue menor 3. 
 
 
-> ¡Ahora te toca a vos! Dani tampoco quiere perder la práctica diaria de fútbol :soccer: y necesita una función `todos_los_dias_un_poco` que reciba una lista con cuántos minutos practicó cada cada día, y retorne si su práctica diaria fue siempre mayor a 30 minutos: 
+> ¡Ahora te toca a ti! Dani tampoco quiere perder la práctica diaria de fútbol :soccer: y necesita una función `todos_los_dias_un_poco` que reciba una lista con cuántos minutos practicó cada día, y retorne si su práctica diaria fue siempre mayor a 30 minutos: 
 >
 > 
 > ```python
