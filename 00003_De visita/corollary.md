@@ -17,5 +17,5 @@ En este caso, en `imprimir_cada_elemento` elegimos:
  3. imprimir cada uno de esos elementos usando `print`.
 
 
-Muy interesante, pero no parece que hayamos hecho nada muy útil :confused:. ¿Podremos hacer cosas más que sólo mostrar elementos? 
+Muy interesante, pero no parece que hayamos hecho nada muy útil :confused:. ¿Podremos hacer más cosas que sólo mostrar elementos? 
 
