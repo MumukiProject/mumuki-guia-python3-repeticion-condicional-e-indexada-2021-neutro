@@ -1,4 +1,4 @@
-¡Que suerte que te encontramos, pensabamos que ya te ibas! ¿Podrías quedarte un poco más en esta lección? Es que Agus y Dani nos pidieron les demos una mano para llevar cuenta de sus estadísticas.  
+¡Qué suerte que te encontramos, pensabamos que ya te ibas! ¿Podrías quedarte un poco más en esta lección? Es que Agus y Dani nos pidieron que les demos una mano para llevar cuenta de sus estadísticas.  
 
 Por ahora, para Agus ya definimos esta función...
 
@@ -13,7 +13,7 @@ def cuantas_veces_supero_objetivo(duraciones):
   return veces
 ```
 
-...que es muy parecida a la que ya habíamos definido, pero tiene una novedad: ahora estamos contando **cuantas veces** se superó el objetivo. Y para eso necesitamos un `if`, con algunas novedades: 
+...que es muy parecida a la que ya habíamos definido, pero tiene una novedad: ahora estamos contando **cuántas veces** se superó el objetivo. Y para eso necesitamos un `if`, con algunas novedades: 
 
   * Por un lado, está dentro del `for`, tabulado, y no retorna nada;
   * por el otro, no tiene `else`: si la condición no se cumple, no hace _nada_. 
