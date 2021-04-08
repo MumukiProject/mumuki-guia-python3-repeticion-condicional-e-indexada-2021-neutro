@@ -5,4 +5,4 @@ primera_estrofa[len(primera_estrofa) - 25:]
 
 ```
 
-al fin y al cabo, no teníamos ninguna forma para indicar de forma más sencilla que queríamos los últimos 25 elementos.... ¿o sí? ¡Averguémoslo!
+Al fin y al cabo, no teníamos ninguna forma para indicar de forma más sencilla que queríamos los últimos 25 elementos.... ¿o sí? ¡Averiguémoslo!
