@@ -59,7 +59,7 @@ Por ejemplo, esto nos permitirá entender al string `"hola mundo"` de dos formas
 "hol" 
 ム "hola mundo"[:-1] # todos los caracteres salvo el último
 "hola mund" 
-ム "hola mundo"[-5:] # los último 5 caracteres
+ム "hola mundo"[-5:] # los últimos 5 caracteres
 "mundo"
 ム "hola mundo"[0] # primer carácter, como ya conocemos
 "h" 
@@ -69,9 +69,9 @@ Por ejemplo, esto nos permitirá entender al string `"hola mundo"` de dos formas
 "d"
 ```
 
-> ¡Pongamos todo lo visto en práctica! Definí: 
+> ¡Pongamos todo lo visto en práctica! Define: 
 > 
->  * una función `sin_extremos` que tome una lista y devuelva otra igual pero sin su primer y último elemento;
+>  * una función `sin_extremos` que tome una lista y devuelva otra igual, pero sin su primer y último elemento;
 >  * una función `extremos` que haga exactamente lo contrario, es decir, tome una lista y devuelva otra con solamente el primer y último elemento. 
 > 
 > ```python
