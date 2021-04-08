@@ -31,4 +31,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`operacion_misteriosa` no usa la variable `elemento`"
   checked: true
-name: Contalo vos
+name: Cuéntalo tu

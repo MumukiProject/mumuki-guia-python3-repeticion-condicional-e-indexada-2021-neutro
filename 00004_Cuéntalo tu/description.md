@@ -12,5 +12,5 @@ def operacion_misteriosa(elementos):
 
 ¿Qué hace? ¿Qué devuelve? ¿Te recuerda a algo conocido? ¿Tiene algo que llama la atención?
 
-> :dizzy_face: ¡Muchas preguntas! ¡Marcá todas las opciones que creas correctas!
+> :dizzy_face: ¡Muchas preguntas! ¡Marca todas las opciones que creas correctas!
 
